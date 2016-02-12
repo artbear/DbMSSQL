@@ -7,8 +7,8 @@
     <ProjectGuid>{E772225D-E8C7-4851-B92F-61D62A3BBEBB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DbMSSQL</RootNamespace>
-    <AssemblyName>DbMSSQL</AssemblyName>
+    <RootNamespace>OSDB.MSSQL</RootNamespace>
+    <AssemblyName>OSDB.MSSQL</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
